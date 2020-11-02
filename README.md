@@ -22,7 +22,7 @@
 <br/>
 
 - 🏫 I’m currently studying at [FPT University](http://www.fpt.edu.vn/).
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
+- 🔭 I’m currently working on [Hisun Software](https://frontier.xyz/).
 - 🌱 I’m currently learning more about Javascript and it's frameworks.
 - 👯 I’m looking to collaborate on [Hisun Software](https://hisunsoftware.com).
 - 🤔 I’m looking for help with Nextjs documentation.
@@ -34,7 +34,7 @@
 [![Twitter: thucngocpham](https://img.shields.io/twitter/follow/thucngocpham?style=social)](https://twitter.com/thucngocpham)
 [![Linkedin: thucpn](https://img.shields.io/badge/-thucpn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thucpn/)](https://www.linkedin.com/in/thucpn/)
 [![GitHub thucpn](https://img.shields.io/github/followers/thucpn?label=follow&style=social)](https://github.com/thucpn)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://hisunsoftware.com)
+[![website](https://img.shields.io/badge/PortfolioWebsite-hisunsoftware.com-2648ff?style=flat-square&logo=google-chrome)](https://hisunsoftware.com)
 
 **Languages and Tools:**
 
