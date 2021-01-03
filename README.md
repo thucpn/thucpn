@@ -31,18 +31,13 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 15 hours for coding and listening songs everyday.
 
-[![Twitter: thucngocpham](https://img.shields.io/twitter/follow/thucngocpham?style=social)](https://twitter.com/thucngocpham)
-[![Linkedin: thucpn](https://img.shields.io/badge/-thucpn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thucpn/)](https://www.linkedin.com/in/thucpn/)
-[![GitHub thucpn](https://img.shields.io/github/followers/thucpn?label=follow&style=social)](https://github.com/thucpn)
-[![website](https://img.shields.io/badge/PortfolioWebsite-hisunsoftware.com-2648ff?style=flat-square&logo=google-chrome)](https://hisunsoftware.com)
-
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://spng.subpng.com/20180402/cjw/kisspng-mongodb-inc-computer-software-business-software-d-bay-leaves-5ac2915d780ea2.2723311115227006374918.jpg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="25" src="https://spng.subpng.com/20180402/cjw/kisspng-mongodb-inc-computer-software-business-software-d-bay-leaves-5ac2915d780ea2.2723311115227006374918.jpg"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thucpn)](https://github.com/thucpn)
 
@@ -53,5 +48,10 @@
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
+
+[![Twitter: thucngocpham](https://img.shields.io/twitter/follow/thucngocpham?style=social)](https://twitter.com/thucngocpham)
+[![Linkedin: thucpn](https://img.shields.io/badge/-thucpn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thucpn/)](https://www.linkedin.com/in/thucpn/)
+[![GitHub thucpn](https://img.shields.io/github/followers/thucpn?label=follow&style=social)](https://github.com/thucpn)
+[![website](https://img.shields.io/badge/PortfolioWebsite-hisunsoftware.com-2648ff?style=flat-square&logo=google-chrome)](https://hisunsoftware.com)
 
 </div>
