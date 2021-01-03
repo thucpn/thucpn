@@ -2,9 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thucpn&label=Views&color=blue&style=plastic" alt="thucpn" /> </p>
 
-<br/>
-<br/>
-
 - 🏫 I’m currently studying at [FPT University](http://www.fpt.edu.vn/).
 - 🔭 I’m currently working on [Hisun Software](https://frontier.xyz/).
 - 🌱 I’m currently learning more about Javascript and it's frameworks.
@@ -34,19 +31,19 @@
 ### Show some ❤️ by starring some of the repositories!
 
 <a href="https://twitter.com/thucngocpham">
-  <img align="left" alt="Thuc's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Thuc's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/thucpn">
-  <img align="left" alt="Thuc's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Thuc's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/thucpn">
-  <img align="left" alt="Thuc's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Thuc's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/thucpn.inst">
-  <img align="left" alt="Thuc's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Thuc's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/thucpn">
-  <img align="left" alt="Thuc's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="center" alt="Thuc's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 </div>
