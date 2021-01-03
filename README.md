@@ -22,9 +22,9 @@
 <br/>
 
 - 🏫 I’m currently studying at [FPT University](http://www.fpt.edu.vn/).
-- 🔭 I’m currently working on [Hisun Software](https://hisunsoftware.com).
+<!-- - 🔭 I’m currently working on [Hisun Software](https://hisunsoftware.com). -->
 - 🌱 I’m currently learning more about Javascript and it's frameworks.
-- 👯 I’m looking to collaborate on [Hisun Software](https://hisunsoftware.com).
+<!-- - 👯 I’m looking to collaborate on [Hisun Software](https://hisunsoftware.com). -->
 - 🤔 I’m looking for help with Nextjs documentation.
 - 💬 Ask me about Javascript or any tech related stuff.
 - 📫 How to reach me: [Facebook - /thucpn](https://www.facebook.com/thucpn)
