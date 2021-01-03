@@ -18,8 +18,10 @@
 <br/>
 <br/>
 
-- 🏫 I’m currently studying at [FPT University](http://www.fpt.edu.vn/).
-- 🤔 I’m looking for a job in javascript stack.
+- 🌐 I’m a fullstack javascript developer
+- 🏫 Currently studying at [FPT University](http://www.fpt.edu.vn/).
+- ✍️ Occasionally writing a blog about what I learned on [knsblog.com](http://knsblog.com/)
+- 🤔 Looking for a job in MERN stack (reactjs, nodejs, expressjs and mongodb).
 - 🌱 I’m currently learning more about javascript and it's frameworks.
 - 💬 Ask me about javascript or any tech related stuff.
 - 📫 How to reach me: [Facebook - /thucpn](https://www.facebook.com/thucpn)
