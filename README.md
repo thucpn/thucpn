@@ -50,10 +50,10 @@
 </a>
 
 <a href="https://github.com/thucpn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thucpn&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thucpn&repo=thucpn" />
 </a>
 <a href="https://github.com/thucpn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thucpn&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thucpn&repo=thucpn" />
 </a>
 
 <div align="center">
