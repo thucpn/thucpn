@@ -20,8 +20,8 @@
 
 - 🏫 I’m currently studying at [FPT University](http://www.fpt.edu.vn/).
 - 🤔 I’m looking for a job in javascript stack.
-- 🌱 I’m currently learning more about Javascript and it's frameworks.
-- 💬 Ask me about Javascript or any tech related stuff.
+- 🌱 I’m currently learning more about javascript and it's frameworks.
+- 💬 Ask me about javascript or any tech related stuff.
 - 📫 How to reach me: [Facebook - /thucpn](https://www.facebook.com/thucpn)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 15 hours for coding and listening songs everyday.
